@@ -1,2 +1,4 @@
 # Lab
-Sharing files for lab projects
+File sharing platform for lab projects.
+
+Overleaf editing will just be done in overleaf for now.
